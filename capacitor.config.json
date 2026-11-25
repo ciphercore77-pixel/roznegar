@@ -1,0 +1,6 @@
+{
+  "appId": "com.rooznegar.app",
+  "appName": "روزنگار",
+  "webDir": "www",
+  "bundledWebRuntime": false
+}

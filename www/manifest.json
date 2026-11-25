@@ -1,0 +1,25 @@
+{
+  "name": "روزنگار — تقویم، روزنوشت، یادآور و عادت‌ها",
+  "short_name": "روزنگار",
+  "description": "اپلیکیشن دوزبانه تقویم شمسی و میلادی، روزنوشت و ثبت حال، یادآور هوشمند، پیگیری عادت‌ها، تایمر پومودورو، ماشین‌حساب و مینی‌گیم‌ها.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0F1E19",
+  "theme_color": "#0F1E19",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
